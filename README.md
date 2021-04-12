@@ -1,6 +1,6 @@
 ### Greetings visitor ! Welcome to my Github page. 
 
-What you are most likely to find here are some ~~dirty~~ code I wrote for personnal projects, some code I wrote as a student, some code I wrote for professional purposes. If you need any information on something, feel free to email me.
+You are most likely to find science related projects here. I am mostly working with python and currently learning C++.
 
 <!--
 **Foussy/Foussy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
