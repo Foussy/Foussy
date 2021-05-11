@@ -1,6 +1,6 @@
 ### Greetings visitor ! Welcome to my Github page. 
 
-You are most likely to find science related projects here. I am mostly working with python and currently learning C++.
+You are most likely to find science related projects here. I am mostly working with python, matlab and currently learning C++.
 
 <!--
 **Foussy/Foussy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
