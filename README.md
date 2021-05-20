@@ -6,7 +6,7 @@ You are most likely to find science related projects here. I am mostly working w
 
 ## 🛠️ Technologies and Tools
 <p>
-  <img alt="OS" src="https://img.shields.io/badge/logo=linux&OS-Linux%20%7C%20Windows-red" />
+  <img alt="OS" src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-red?logo=linux&style=plastic" />
   <img alt="Languages" src="https://img.shields.io/badge/Languages-python%20%7C%20C%2B%2B%20%7C%20matlab%20%7C%20bash%20%7C%20LaTeX-green" />  
 </p>
 
