@@ -5,7 +5,7 @@ I’m Christian. A young mechanical engineer & aspiring programmer.
 You are most likely to find personnal projects here, some science related, some games, some linux scripts, raspberry pi, etc... Feel free to take a look.
 
 I am mostly working with : 
-<img alt="matlab" src="https://img.shields.io/badge/matlab-%2314354C.svg?style=for-the-badge&logo=python&logoColor=red"/>
+<img alt="matlab" src="https://img.shields.io/badge/matlab-%2314354C.svg?style=for-the-badge&logo=matlab&logoColor=red"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
