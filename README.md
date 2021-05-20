@@ -2,7 +2,13 @@
 
 I’m Christian. A young mechanical engineer & aspiring programmer. 
 
-You are most likely to find science related projects here. I am mostly working with <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>, matlab and currently learning C+.
+You are most likely to find personnal projects here, some science related, some games, some linux scripts, etc... Feel free to take a look.
+
+I am mostly working with : 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+matlab and currently learning C+.
 
 <!--
 **Foussy/Foussy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
