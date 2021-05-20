@@ -1,6 +1,14 @@
 ### Greetings visitor ! Welcome to my Github page. 
 
+I’m Christian. A young mechanical engineer & aspiring programmer. 
+
 You are most likely to find science related projects here. I am mostly working with python, matlab and currently learning C++.
+
+## 🛠️ Technologies and Tools
+<p>
+  <img alt="OS" src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-red" />
+  <img alt="Languages" src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-red" />  
+</p>
 
 <!--
 **Foussy/Foussy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
