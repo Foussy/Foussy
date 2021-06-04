@@ -1,6 +1,6 @@
 ### Greetings visitor ! Welcome to my Github page. 
 
-I’m Christian. A young mechanical engineer & aspiring programmer. 
+I’m Christian. Mechanical engineer & programmer. 
 
 You are most likely to find personnal projects here, some science related, some games, some linux scripts, raspberry pi, etc... Feel free to take a look.
 
