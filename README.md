@@ -2,7 +2,7 @@
 
 I’m Christian. Mechanical engineer & programmer. 
 
-You are most likely to find personnal projects here, some science related, some linux scripts, raspberry pi stuff, etc... Feel free to take a look.
+You are most likely to find personnal projects here, some science related, some linux scripts, raspberry pi stuff, games etc... Feel free to take a look.
 
 I am mostly working with : 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
